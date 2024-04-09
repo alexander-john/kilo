@@ -1,5 +1,5 @@
 # Kilo
-## Purpose of this project
+## What I learned
 This project has taught me a lot about various technologies. For starters the libraries used were as ancient as can be. But I never knew the terminal had it's own collection of libraries.
 When you start programming in the terminal you learn really quickly how dark the depths of system programming can go. I was not aware of all the different technologies that were available.
 Also, this project was straight to the point. No fancy libraries or file structure. Just plain C and a compiler. Out came a text editor with basic features light tect highlighting and search.
